@@ -144,5 +144,5 @@ Hum: 40.0 %
 
 ## 👨‍💻 Autor
 
-Alan Fernández  
+Emiliano Lara 
 Materia: Sistemas Embebidos
