@@ -125,5 +125,5 @@ https://github.com/user-attachments/assets/888daf36-af51-4b79-824a-2bc660c9b852
 
 ## 👨‍💻 Autor
 
-Alan Fernández  
+Emiliano Lara
 Materia: Sistemas Embebidos
