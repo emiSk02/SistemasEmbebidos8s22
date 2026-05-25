@@ -120,5 +120,5 @@ Texto scrolling
 
 ## 👨‍💻 Autor
 
-Alan Fernández  
+EmilianoLara
 Materia: Sistemas Embebidos
