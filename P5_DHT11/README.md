@@ -126,5 +126,5 @@ Iniciando lectura del DHT11...
 
 # 👨‍💻 Autor
 
-**Alan Fernández**  
+Emiliano Lara 
 Materia: Sistemas Embebidos
