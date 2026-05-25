@@ -143,5 +143,5 @@ Después mostrará el logo y finalmente actualizará la hora en tiempo real.
 
 ## 👨‍💻 Autor
 
-Alan Fernández  
+Emiliano Lara
 Materia: Sistemas Embebidos
