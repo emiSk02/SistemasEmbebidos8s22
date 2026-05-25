@@ -144,5 +144,5 @@ sin lectura
 
 ## 👨‍💻 Autor
 
-Alan Fernández  
+Emiliano Lara
 Materia: Sistemas Embebidos
